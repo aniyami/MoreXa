@@ -9,7 +9,7 @@ import websockets
 import base64
 from threading import Thread
 
-
+#123123
 class CameraApp(App):
     def build(self):
         self.layout = BoxLayout(orientation='vertical')
